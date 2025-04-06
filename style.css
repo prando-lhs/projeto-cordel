@@ -79,12 +79,12 @@ section.imagem {
 }
 
 section#imagem1 {
-    background-image: url('../projeto-cordel/imagens/background001.jpg');
+    background-image: url('../imagens/background001.jpg');
     background-position: right center;
 }
 
 section#imagem2 { 
-    background-image: url('../projeto-cordel/imagens/background002.jpg');
+    background-image: url('../imagens/background002.jpg');
 }
 
 footer {
