@@ -79,11 +79,19 @@ section.imagem {
 }
 
 section#imagem1 {
+<<<<<<< HEAD
     background-image: url('../imagens/background001.jpg');
     background-position: right center;
 }
 section#imagem2 { 
     background-image: url('../imagens/background002.jpg');
+=======
+    background-image: url('../projeto-cordel/imagens/background001.jpg');
+    background-position: right center;
+}
+section#imagem2 { 
+    background-image: url('../projeto-cordel/imagens/background002.jpg');
+>>>>>>> b6e7c194889f6438de97e6b392f04c0bcdcc66e5
    
 }
 
